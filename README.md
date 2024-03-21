@@ -1,1 +1,1 @@
-# Checkers
+# MiniCheckurs
