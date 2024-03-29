@@ -9,19 +9,7 @@
 ## UI and Logic Planning
 MiniCheckurs is a shell, text-based game.
 ![CheckerBoard](https://github.com/TymonNitecki/MiniCheckurs/blob/main/images/CheckerBoard.txt)
-┌───┬───┬───┬───┬───┬───┐
-│   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │
-└───┴───┴───┴───┴───┴───┘
+
 
 
 
