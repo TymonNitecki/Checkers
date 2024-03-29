@@ -8,5 +8,7 @@
 * Creating a start UI and scoreboard that allows the user(s) to play multiple rounds
 ## UI and Logic Planning
 MiniCheckurs is a shell, text-based game.
+![CheckerBoard]()
+
 
 ### Class Diagram
