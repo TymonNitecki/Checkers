@@ -4,6 +4,6 @@
 * Moveable pieces exclusive to different opponents or an individual on different rounds
 * Creating diagnol movements
 * A registeration of kill moves such as jumping over a piece
-* Creating a crowning move at the end of the board that will change the graphics of the checkers piece and its movability
-* Creating a start screen and scoreboard that allows the user(s) to play multiple rounds
+* Creating a crowning move at the end of the board that will change the look of the checkers piece and its movability
+* Creating a start UI and scoreboard that allows the user(s) to play multiple rounds
 ## UI and Logic Planning
