@@ -7,6 +7,6 @@
 * Creating a crowning move at the end of the board that will change the look of the checkers piece and its movability
 * Creating a start UI and scoreboard that allows the user(s) to play multiple rounds
 ## UI and Logic Planning
-* MiniCheckurs is a shell, text-based game.
+MiniCheckurs is a shell, text-based game.
 
 ### Class Diagram
