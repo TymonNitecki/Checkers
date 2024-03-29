@@ -11,4 +11,5 @@ MiniCheckurs is a shell, text-based game.
 ![CheckerBoard](https://github.com/TymonNitecki/MiniCheckurs/blob/main/images/CheckerBoard.txt?raw=true)
 
 
+
 ### Class Diagram
