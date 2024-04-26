@@ -1,5 +1,5 @@
 # MiniCheckurs
-* A 6x6 board checkers game implementing piskel art and object-orientated logic to move pieces and register different moves.
+* A 6x6 board checkers game implementing shell based graphics and print satements to move pieces and register different moves.
 ## Project Features and Goals
 * Moveable pieces exclusive to different opponents or an individual on different rounds
 * Creating diagnol movements
