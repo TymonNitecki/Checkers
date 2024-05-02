@@ -10,7 +10,7 @@
 MiniCheckurs is a shell, text-based game.
 
 
-
+### UI
 ![CheckerBoard](https://github.com/TymonNitecki/MiniCheckurs/blob/main/images/CheckerBoard.txt)
 ![CheckerBoard](https://github.com/TymonNitecki/MiniCheckurs/blob/main/images/CheckerBoardPicFixed.png?raw=true)
 
